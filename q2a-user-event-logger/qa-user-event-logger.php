@@ -35,7 +35,7 @@
 				qa_opt('uel_to_database', (int)qa_post_text('uel_to_database_field'));
 				qa_opt('uel_to_files', qa_post_text('uel_to_files_field'));
 				qa_opt('uel_directory', qa_post_text('uel_directory_field'));
-='favorite'
+
 				$saved=true;
 			}
 			
